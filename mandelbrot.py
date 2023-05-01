@@ -18,8 +18,8 @@ height = 400
 # Rango de valores para el eje x y y
 xmin = -2.0
 xmax = 1.0
-ymin = -1.4
-ymax = 1.4
+ymin = -1.5
+ymax = 1.5
 
 # Máximo número de iteraciones
 max_iter = 256
